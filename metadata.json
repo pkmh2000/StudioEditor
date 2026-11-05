@@ -1,0 +1,6 @@
+{
+  "name": "Timeline Studio — Browser AI Video Editor & Real-Time Preview",
+  "description": "A high-performance modular React & TypeScript video editor with multi-track timeline, real-time canvas preview, audio mixer, smart captions, filters, and GitHub Pages deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
